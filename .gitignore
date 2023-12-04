@@ -1,0 +1,21 @@
+# [ zrfisaac ]
+
+# [ sobre ]
+# - autor : Isaac Santana
+# . - email : zrfisaac@gmail.com
+# . - site : zrfisaac.github.io
+
+# [ gitignore ]
+*.zip
+Saida/*.sql
+
+# : - delphi7
+*.~*
+*.MB
+*.bpi
+*.bpl
+*.dcp
+*.dcu
+*.dll
+*.exe
+*.ini
