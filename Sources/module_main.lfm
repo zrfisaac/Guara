@@ -1,0 +1,7 @@
+inherited ModuleMain: TModuleMain
+  Height = 188
+  HorizontalOffset = 395
+  VerticalOffset = 194
+  Width = 188
+  PPI = 120
+end

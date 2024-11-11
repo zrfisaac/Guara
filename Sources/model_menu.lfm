@@ -1,0 +1,13 @@
+inherited ModelMenu: TModelMenu
+  inherited pnBack: TPanel
+    object pnTitle: TPanel[0]
+      Left = 0
+      Height = 47
+      Top = 0
+      Width = 600
+      Align = alTop
+      Caption = 'pnTitle'
+      TabOrder = 0
+    end
+  end
+end

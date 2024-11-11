@@ -1,0 +1,21 @@
+object ModelBase: TModelBase
+  Left = 320
+  Height = 400
+  Top = 160
+  Width = 600
+  Caption = 'ModelBase'
+  ClientHeight = 400
+  ClientWidth = 600
+  DesignTimePPI = 120
+  Position = poOwnerFormCenter
+  LCLVersion = '3.6.0.0'
+  object pnBack: TPanel
+    Left = 0
+    Height = 400
+    Top = 0
+    Width = 600
+    Align = alClient
+    BevelOuter = bvNone
+    TabOrder = 0
+  end
+end

@@ -1,0 +1,31 @@
+inherited MenuMain: TMenuMain
+  Height = 375
+  Caption = 'MenuMain'
+  ClientHeight = 375
+  Menu = miMenu
+  OnCreate = FormCreate
+  Position = poScreenCenter
+  inherited pnBack: TPanel
+    Height = 346
+  end
+  object sbStatus: TStatusBar[1]
+    Left = 0
+    Height = 29
+    Top = 346
+    Width = 600
+    Panels = <>
+  end
+  object miMenu: TMainMenu[2]
+    Left = 24
+    Top = 16
+    object miHelp: TMenuItem
+      Caption = 'miHelp'
+      object miConfig: TMenuItem
+        Caption = 'miConfig'
+      end
+      object miAbout: TMenuItem
+        Caption = 'miAbout'
+      end
+    end
+  end
+end

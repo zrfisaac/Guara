@@ -1,0 +1,7 @@
+object ModelModule: TModelModule
+  OldCreateOrder = False
+  Height = 150
+  HorizontalOffset = 316
+  VerticalOffset = 155
+  Width = 150
+end
