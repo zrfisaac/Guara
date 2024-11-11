@@ -11,6 +11,8 @@
 
 # <img src="Guara.ico" alt="Logo" width="64" height="64"> Guara - A Ferramenta Definitiva de Gestão de Bancos de Dados
 
+## EM DESENVOLVIMENTO!
+
 Guara é uma ferramenta abrangente e versátil de gestão de bancos de dados, projetada para simplificar operações complexas. Com recursos poderosos, Guara foi feito para desenvolvedores e gestores de dados que buscam uma solução que aumente a produtividade, otimize fluxos de trabalho e melhore o manuseio de dados.
 
 ## Principais Funcionalidades

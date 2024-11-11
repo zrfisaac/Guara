@@ -11,6 +11,8 @@
 
 # <img src="Guara.ico" alt="Logo" width="64" height="64"> Guara - The Ultimate Database Management Tool
 
+## UNDER DEVELOPMENT!
+
 Guara is a comprehensive, versatile database management tool that simplifies complex database operations. Designed for developers and data managers, Guara supports a variety of databases and offers an extensive set of features to boost productivity, streamline workflows, and enhance data handling capabilities.
 
 ## Key Features
