@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Debug"/>
+    <Units>
+      <Unit>
+        <Filename Value="guara.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="source/menu_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MenuMain"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="3" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="source/menu_main.pas"/>
+        <Caret Line="13" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="source/menu_main.pas"/>
+        <Caret Line="4" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="source/menu_main.pas"/>
+        <Caret Line="8" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="source/menu_main.pas"/>
+        <Caret Line="16" Column="3"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

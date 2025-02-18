@@ -1,0 +1,34 @@
+object MenuMain: TMenuMain
+  Left = 240
+  Height = 400
+  Top = 160
+  Width = 600
+  Caption = 'MenuMain'
+  ClientHeight = 400
+  ClientWidth = 600
+  Menu = miMenu
+  Position = poScreenCenter
+  LCLVersion = '3.8.0.0'
+  object pnBack: TPanel
+    Left = 0
+    Height = 400
+    Top = 0
+    Width = 600
+    Align = alClient
+    BevelOuter = bvNone
+    TabOrder = 0
+  end
+  object miMenu: TMainMenu
+    Left = 21
+    Top = 18
+    object miHelp: TMenuItem
+      Caption = 'miHelp'
+      object miConfig: TMenuItem
+        Caption = 'miConfig'
+      end
+      object miAbout: TMenuItem
+        Caption = 'miAbout'
+      end
+    end
+  end
+end
